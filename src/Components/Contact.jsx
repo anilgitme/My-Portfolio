@@ -5,7 +5,7 @@ const Contact = () => {
         <div className='contact-info'>
             <h3>You can contact me at:</h3>
             <h4>anil.gitme@gmail.com</h4>
-            <a href="https://www.linkedin.com/in/anil-ramcharran/" target="_blank" rel='Anil Ramcharran'>My Linkedin</a>
+            <a href="https://www.linkedin.com/in/anil-ramcharran/" target="_blank" rel='noopener noreferrer'>My Linkedin</a>
         </div>
     )
 }
