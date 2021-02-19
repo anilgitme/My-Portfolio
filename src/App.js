@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
-import Header from './Header';
-import Contact from './Contact';
-import About from './About';
-import '../App';
+import Contact from './Components/Contact';
+import About from './Components/About';
+import Header from './Components/Header'
+import Selector from './Components/Selector'
+import './App.css';
 
 class App extends Component() {
   state = {
